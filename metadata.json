@@ -1,0 +1,6 @@
+{
+  "name": "La Botellita - Retos & Preguntas Íntimas",
+  "description": "Juego móvil de fiesta para grupos mixtos de hombres y mujeres. Gira la ruleta de la botella para retos atrevidos y preguntas íntimas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
